@@ -1,4 +1,4 @@
-## Vijayakumar P
+## Dr. Vijayakumar P
 
 Assistant Professor. I teach HR analytics, business analytics and performance management to MBA and EMBA cohorts, and I publish the teaching material openly instead of keeping it behind a course login.
 
