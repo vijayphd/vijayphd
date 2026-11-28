@@ -6,10 +6,13 @@ I came to management from engineering: a B.Tech in electronics and communication
 
 ### Start here
 
-Code you can clone, run and teach with. Every repository uses synthetic or public data, so it can be shared freely.
+Code and material you can clone, run and teach with. The code repositories use synthetic or public data, so everything can be shared freely.
 
 | Repository | What it is |
 |---|---|
+| [**analytics-labs**](https://github.com/vijayphd/analytics-labs) | 26 hands-on business analytics labs in Python and R, from descriptive statistics to forecasting, optimisation, survival analysis and thesis tables, each built around a real decision |
+| [**ai-for-educators**](https://github.com/vijayphd/ai-for-educators) | Prompt library, installable agent skills and guides for teachers and researchers: course design, assessment, feedback, research writing and OBE documentation |
+| [**awesome-management-research**](https://github.com/vijayphd/awesome-management-research) | Curated methods papers, validated scales, software, data sources and journal checks for management research, every DOI verified |
 | [**people-analytics-projects**](https://github.com/vijayphd/people-analytics-projects) | Five end-to-end HR analytics cases in Python (attrition, pay equity, engagement drivers, workforce planning, recruitment funnel), each with a Colab notebook, plus a Streamlit app |
 | [**sem-in-r**](https://github.com/vijayphd/sem-in-r) | A reviewer-ready SEM workflow in R: EFA, CFA, CR/AVE/HTMT, measurement invariance, bootstrapped mediation, moderation and an auto-filled APA write-up |
 | [**teaching-datasets**](https://github.com/vijayphd/teaching-datasets) | Documented synthetic datasets for HR, retail, agriculture, credit and survey research, each with a known story built in, loadable in one line |
